@@ -45,6 +45,7 @@ python trusted_editing.py
 - This is a **research demo**, not a production security tool.
 - Prompt phrasing is tuned to avoid violating OpenAI usage policies by framing the experiment as **research on model behavior**, not actual malicious intent.
 - The example is simplified for demonstration. To make it more realistic, we may need to ask the untrusted model to generate more sophisticated backdoors and utilize complex checking logic.
+- The code is generated with the help of ChatGPT.
 
 ## License
 
