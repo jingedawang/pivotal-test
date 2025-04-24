@@ -1,7 +1,3 @@
-Here's a simple `README.md` you can include for your project:
-
----
-
 # Trusted Editing Redteam
 
 This is a lightweight prototype inspired by the ["AI Control" paper](https://arxiv.org/abs/2312.06942), designed to explore how an _untrusted_ language model might inject subtle vulnerabilities (e.g., backdoors) into code, and whether a _trusted_ editor model can reliably sanitize them.
